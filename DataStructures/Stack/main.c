@@ -1,9 +1,11 @@
 #include <stdio.h>
+#include "stack.h"
 
 int main() {
     // Simple Stack Functions
+    
 
-    printf("Hello World");
+
     return 0;
 }
 
